@@ -1,5 +1,5 @@
 # Named Entity Recognition: a Survey for the Portuguese Language
-- Reconocimiento de Entidades Nombradas: una investigación para el idioma Portugués (Spanish).
+- *Reconocimiento de Entidades Nombradas: una investigación para el idioma Portugués* (in Spanish).
 
 Repository at paper, published in Journal Procesamiento del Lenguaje Natural (Revista nº 70, March/2023)
 
@@ -12,7 +12,7 @@ Named Entity Recognition (NER) is an important task in Natural Language Processi
 Hidelberg O. Albuquerque, Ellen Souza, Carlos Gomes, Matheus Henrique de C. Pinto, Ricardo P. S. Filho, Rosimeire Costa, Vinı́cius Teixeira de M. Lopes, Nádia F. F. da Silva, André C. P. L. F. de Carvalho, and Adriano L. I. Oliveira.
 
 ## Paper:
-http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6488 (Open Access)
+Open Access: http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6488
 
 ## Acknowledgements
 This research is carried out in the context of the Ulysses Project, of the Brazilian Chamber of Deputies. Ellen Souza and Nádia Félix
@@ -25,7 +25,7 @@ for later replication, and are available in https://bit.ly/extraction-form-surve
 ## Citation
 If you use our work, please cite:
 ```
-@article{albuquerque2023NERsurvey,
+@article{albuquerque2023NERsurveyPT,
   title={Named Entity Recognition: a Survey for the Portuguese Language},
   author={Albuquerque, Hidelberg O and Souza, Ellen and Gomes, Carlos and Pinto, Matheus Henrique de C and Ricardo Filho, PS and Costa, Rosimeire and Lopes, Vin{\'\i}cius Teixeira de M and da Silva, N{\'a}dia FF and de Carvalho, Andr{\'e} CPLF and Oliveira, Adriano LI},
   journal={Procesamiento del Lenguaje Natural},
