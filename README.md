@@ -25,7 +25,7 @@ for later replication, and are available in https://bit.ly/extraction-form-surve
 ## Citation
 If you use our work, please cite:
 ```
-@article{albuquerque2023named,
+@article{albuquerque2023NERsurvey,
   title={Named Entity Recognition: a Survey for the Portuguese Language},
   author={Albuquerque, Hidelberg O and Souza, Ellen and Gomes, Carlos and Pinto, Matheus Henrique de C and Ricardo Filho, PS and Costa, Rosimeire and Lopes, Vin{\'\i}cius Teixeira de M and da Silva, N{\'a}dia FF and de Carvalho, Andr{\'e} CPLF and Oliveira, Adriano LI},
   journal={Procesamiento del Lenguaje Natural},
